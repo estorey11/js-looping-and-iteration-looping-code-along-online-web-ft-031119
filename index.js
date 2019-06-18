@@ -6,3 +6,7 @@ function writeCards(names, event){
   }
   return cards
 }
+
+function countdown(int){
+  
+}
